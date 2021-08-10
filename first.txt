@@ -1,1 +1,2 @@
-This is my bversion 2
+This is my version 2.
+my own pratice on git
